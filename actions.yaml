@@ -1,0 +1,3 @@
+actions:
+  charm-health:
+    description: query charm and layers for their state
